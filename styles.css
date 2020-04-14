@@ -1,0 +1,166 @@
+body
+{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  background-color: white;
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width:5%;
+}
+h1
+{
+  margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem   ;
+color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+font-size: 2rem;
+margin-top: 2px auto 0 auto;
+color: #66BFBF;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.topcontainer
+{
+  padding-top: 100px;
+  background-color: #c2f0fc;
+  margin-bottom: 30px;
+}
+.middle-container
+{
+
+}
+.bottom-container
+{
+  margin-top: 50px;
+  padding-top: 50px;
+  background-color: #c2f0fc;
+  padding-bottom: 50px;
+
+}
+.footer-link
+{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
+.footer
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:300;
+}
+.footer-link:hover
+{
+  color: green;
+}
+.web{
+  text-decoration: underline;
+}
+p{
+  display:inline-block;
+
+}
+.bottom_cloud
+{
+  position: absolute;
+  left: 250px;
+}
+.top_cloud
+{
+  position:absolute;
+  right:350px;
+  top:50px;
+}
+.suganth_photo
+{
+  height:200px;
+  width: 200px;
+}
+.data_structures
+{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-top: 8%;
+}
+.cpp
+{
+  height: 20%;
+  width: 20%;
+  float: left;
+}
+.skills
+{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.skill{
+  font-size: 40px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  line-height: 2;
+}
+.Web1{
+  font-weight: normal;
+  line-height: 2;
+}
+.firstpara
+{
+  width: 75%;
+}
+
+.secondpara
+{
+  width: 75%;
+}
+.tron {
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   height: 0px;
+   line-height: 0px;
+   color: #000000;
+   font-family: Open Sans;
+   width: 133px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #FFFFFF;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #00E2FF 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.tron:hover {
+   border: solid #00E2FF 5px;
+   background: #C2F0FB;
+   background-image: -webkit-linear-gradient(top, #C2F0FB, #C2F0FC);
+   background-image: -moz-linear-gradient(top, #C2F0FB, #C2F0FC);
+   background-image: -ms-linear-gradient(top, #C2F0FB, #C2F0FC);
+   background-image: -o-linear-gradient(top, #C2F0FB, #C2F0FC);
+   background-image: linear-gradient(to bottom, #C2F0FB, #C2F0FC);
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   text-decoration: none;
+}
